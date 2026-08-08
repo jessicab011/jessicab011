@@ -27,9 +27,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="https://jessicab011.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
   <a href="mailto:jessicaborges0211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 </div>
 </div>
 
