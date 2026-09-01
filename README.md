@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas (UNIP)
 
-🚀 Desenvolvedora em formação com foco em Back-end
+🚀 Desenvolvedora em formação
 
 🎓 Embaixadora Estudantil do Google 2026
 
