@@ -6,7 +6,7 @@
 
 🎓 Embaixadora Estudantil do Google 2026
 
-🌱 Atualmente estudando Python, MySQL e IA
+🌱 Atualmente estudando IA
 
 ## 💻 Tecnologias
 
